@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @malineczky
 - 👀 I’m interested in 
-- 🌱 I’m currently learning HTML, CSS, SASS, JavaScript
+- 🌱 I’m currently learning HTML, SCSS, JavaScript, React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
