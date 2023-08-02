@@ -2,6 +2,7 @@
 - 👀 I’m interested in web development & project management
 - 🌱 I’m currently learning JavaScript, React
 - 💞️ I’m looking for my frist job in IT
+- If you ask me something I don't know, I will know it in a few minutes
 - 📫 Reach me at LinkedIn https://www.linkedin.com/in/aleksandra-malinka-kot-653633112/
 
 <!---
